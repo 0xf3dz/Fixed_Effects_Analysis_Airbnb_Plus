@@ -16,12 +16,6 @@ In this second phase, we adopt a **Fixed Effects model** with cross-sectional an
 2. The program was associated with a slight **decrease in customer satisfaction** due to elevated customer expectations.
 3. Other factors, such as pricing, property age, and local employment rates, play significant roles in shaping outcomes.
 
-### Contents
-- **/data**: Preprocessed datasets used for analysis.
-- **/code**: Python scripts for data cleaning, analysis, and visualization.
-- **/results**: Output plots and regression tables.
-- **/report**: Final paper detailing the methodology and findings.
-
 ### Future Directions
 The analysis highlights opportunities to explore city-specific and seasonal factors that could enhance the program's success. Recommendations include piloting the Plus program in cities with:
 - High employment rates,
