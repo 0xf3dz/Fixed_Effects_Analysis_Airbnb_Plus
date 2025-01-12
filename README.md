@@ -1,6 +1,4 @@
-### Overview for README.md
-
----
+### README Description
 
 This repository is a continuation of **Project 1**, where we explored the impact of Airbnb's Plus program on booking rates. Building on the prior analysis, this project refines the hypotheses and addresses previous limitations, such as unobserved factors and fixed effects.
 
@@ -29,7 +27,3 @@ The analysis highlights opportunities to explore city-specific and seasonal fact
 - High employment rates,
 - Relatively low listing prices,
 - Abundant historical properties.
-
---- 
-
-Would you like to include specific instructions for code usage or dependencies?
