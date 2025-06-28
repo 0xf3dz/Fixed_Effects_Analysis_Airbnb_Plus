@@ -1,6 +1,5 @@
 ---
 title: "Assessing the Impact of Airbnb's Plus Program: A Fixed Effects Analysis with Cross-Sectional and Time-Series Dimensions"
-author: "Amir Eid, Leander Tim Engel, Aurel Roedern and Federico Scandizzo"
 output:
   pdf_document:
     latex_engine: xelatex
